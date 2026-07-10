@@ -1,0 +1,26 @@
+[
+  {
+    "locationLabel": "Pandam Gadang",
+    "pointInTime": "1897-06-02T00:00:00Z",
+    "ptPrecision": "11",
+    "coord": "Point(100.4086709 -0.0811162)"
+  },
+  {
+    "locationLabel": "Kweekschool Fort de Kock",
+    "pointInTime": "1908-01-01T00:00:00Z",
+    "ptPrecision": "9",
+    "coord": "Point(100.374376857 -0.316530269)"
+  },
+  {
+    "locationLabel": "Rijkskweekschool",
+    "pointInTime": "1913-01-01T00:00:00Z",
+    "ptPrecision": "9",
+    "coord": "Point(4.621194259 52.375204726)"
+  },
+  {
+    "locationLabel": "Semarang",
+    "pointInTime": "1921-01-01T00:00:00Z",
+    "ptPrecision": "9",
+    "coord": "Point(110.4225 -6.99)"
+  }
+]
